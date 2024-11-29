@@ -67,3 +67,8 @@ In this project, I learned about **hooks, event handling, and how to create and 
 - The app ensures invalid or empty input cannot be added, improving functionality and preventing errors.
 
 ---
+
+## Challenges faced
+- Initially while building the app i was unable to break the complete task into components but later on i was able to break it
+- while handling the handleDelete function logic i was creating a copy of alread existing task and then only i would be removing the respective index task
+- The next challenge i faced was handling  states across components 
